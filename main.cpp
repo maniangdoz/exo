@@ -75,6 +75,7 @@ int main()
 
             moyenne=point-malus;
             cout<<"\t\t\t\t\t\tTa moyenne est de:"<<moyenne<<endl;
+            cout<<"Merci pour votre participation"<<endl;
 
 return 0;
 }
