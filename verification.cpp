@@ -131,13 +131,12 @@ void est_de_type(string valeur){
 	}
 }
 
-/*int main()
+int main()
 {
 	string valeur;
-	bool verif;
 	cout<<"Entre une valeur et je te dirai son type"<<endl;
 	getline(cin,valeur);
 	est_de_type(valeur);
 	return 0;
 }
-*/
+
